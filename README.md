@@ -13,7 +13,7 @@
         <div class="left">
             <div class="image">
                 <img src=
-"https://i.ibb.co/jHybmcJ/2023-08-18-15-39-27.png"
+"https://i.ibb.co/d4md4G4/2023-08-18-15-41-57.png"
                      alt="gfg-logo"
                      style="width:100px;height:100px;">
             </div>
